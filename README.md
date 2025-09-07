@@ -1,1 +1,1 @@
-An Extension by Harsh Sharma for his product management in vs code
+An Extension by Harsh Sharma for his product management in any editor
